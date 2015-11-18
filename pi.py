@@ -1,6 +1,6 @@
 import math
 def pifun(d):
-  # This function will find pi to the NTH digit, so lets get started
+  # This function will find pi to the NTH digit, so lets get started!!!
   print "Lets round the pi number!!"
   pinum = float(math.pi)
   pinum = round(pinum, d)
